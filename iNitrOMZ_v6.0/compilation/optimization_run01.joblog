@@ -1,0 +1,47 @@
+/u/scratch/d/danieleb/NitrOMZ/iNitrOMZ_v6.0/compilation/FAOxAnox4_int_cf3nr_25k/optimize_cmaes: Permission denied.
+./u/scratch/d/danieleb/NitrOMZ/iNitrOMZ_v6.0/compilation/FAOxAnox4_int_cf3nr_25k/optimize_cmaes: Command not found.
+./u/scratch/d/danieleb/NitrOMZ/iNitrOMZ_v6.0/compilation/FAOxAnox4_int_cf3nr_25k/optimize_cmaes/optimize_cmaes: Command not found.
+./u/scratch/d/danieleb/NitrOMZ/iNitrOMZ_v6.0/compilation/FAOxAnox4_int_cf3nr_25k/optimize_cmaes/optimize_cmaes: Command not found.
+/u/scratch/d/danieleb/NitrOMZ/iNitrOMZ_v6.0/compilation/FAOxAnox4_int_cf3nr_25k/optimize_cmaes/optimize_cmaes: error while loading shared libraries: libmwlaunchermain.so: cannot open shared object file: No such file or directory
+module: Command not found.
+/u/scratch/d/danieleb/NitrOMZ/iNitrOMZ_v6.0/compilation/FAOxAnox4_int_cf3nr_25k/optimize_cmaes/optimize_cmaes: error while loading shared libraries: libmwlaunchermain.so: cannot open shared object file: No such file or directory
+/work/360798.1.danieleb_pod.q/.: Permission denied.
+module: Command not found.
+/u/scratch/d/danieleb/NitrOMZ/iNitrOMZ_v6.0/compilation/FAOxAnox4_int_cf3nr_25k/optimize_cmaes/optimize_cmaes: error while loading shared libraries: libmwlaunchermain.so: cannot open shared object file: No such file or directory
+BASH: Undefined variable.
+module: Command not found.
+/u/scratch/d/danieleb/NitrOMZ/iNitrOMZ_v6.0/compilation/FAOxAnox4_int_cf3nr_25k/optimize_cmaes/optimize_cmaes: error while loading shared libraries: libmwlaunchermain.so: cannot open shared object file: No such file or directory
+BASH: Undefined variable.
+module: Command not found.
+/u/scratch/d/danieleb/NitrOMZ/iNitrOMZ_v6.0/compilation/FAOxAnox4_int_cf3nr_25k/optimize_cmaes/optimize_cmaes: error while loading shared libraries: libmwlaunchermain.so: cannot open shared object file: No such file or directory
+/u/scratch/d/danieleb/NitrOMZ/iNitrOMZ_v6.0/compilation/FAOxAnox4_int_cf3nr_25k/optimize_cmaes/optimize_cmaes: error while loading shared libraries: libmwmclmcrrt.so.9.0: cannot open shared object file: No such file or directory
+Starting parallel pool (parpool) using the 'local' profile ... connected to 12 workers.
+bgc1d_iteration - cost : 0.14928
+  n=20: (6,12)-CMA-ES(w=[40 25 17 10 6 2]%, mu_eff=3.7) on function bgc1d_fc2minimize_cmaes_parallel
+bgc1d_iteration - cost : 0.12951
+bgc1d_iteration - cost : 0.20121
+bgc1d_iteration - cost : 312.6502
+bgc1d_iteration - cost : 312.6283
+bgc1d_iteration - cost : 0.17374
+bgc1d_iteration - cost : 0.1687
+bgc1d_iteration - cost : 0.19286
+bgc1d_iteration - cost : 0.1248
+bgc1d_iteration - cost : 0.1373
+bgc1d_iteration - cost : 0.17528
+bgc1d_iteration - cost : 0.14805
+bgc1d_iteration - cost : 0.14176
+Iterat, #Fevals:   Function Value    (median,worst) |Axis Ratio|idx:Min SD idx:Max SD
+    1 ,     13 : 1.2479601213794e-01 +(5e-02,3e+02) | 1.03e+00 | 11:2.7e-01 17:2.7e-01
+bgc1d_iteration - cost : 0.10636
+bgc1d_iteration - cost : 0.16342
+bgc1d_iteration - cost : 0.1042
+bgc1d_iteration - cost : 0.18392
+bgc1d_iteration - cost : 0.16437
+bgc1d_iteration - cost : 0.13198
+bgc1d_iteration - cost : 0.17
+bgc1d_iteration - cost : 0.27829
+bgc1d_iteration - cost : 0.12304
+bgc1d_iteration - cost : 0.18317
+bgc1d_iteration - cost : 0.13208
+bgc1d_iteration - cost : 0.13422
+    2 ,     25 : 1.0419780796474e-01 +(4e-02,2e-01) | 1.06e+00 |  1:2.5e-01  2:2.5e-01

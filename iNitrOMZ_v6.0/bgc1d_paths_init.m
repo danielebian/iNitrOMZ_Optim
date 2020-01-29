@@ -1,0 +1,9 @@
+addpath('./UserParams/');
+addpath('./bgc1d_src/');
+addpath('./functions/');
+addpath('./optimization/');
+addpath('./pprocessing/');
+addpath('./runscripts/');
+addpath('./Data/');
+addpath('./restart/');
+addpath('./saveOut')
