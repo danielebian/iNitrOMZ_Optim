@@ -4,7 +4,7 @@ Requires MATLAB 2013 or above.
 ---------------------------------------
 ---------------------------------------
 Find what you need:
-[Updates](###Updates)
+[Updates](.#-Updates)
 ### Quick intro
 ### Running iNitrOMZ
 ### Code structure
