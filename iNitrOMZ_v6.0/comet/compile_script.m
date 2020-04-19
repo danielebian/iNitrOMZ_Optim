@@ -17,7 +17,7 @@
  iNitPath = [rootPath,'iNitrOMZ_v6.0/'];
  addpath([iNitPath,'functions/']);
  compDir = [iNitPath,'comet/']; 
- baseDir = 'OptimJan28';
+ baseDir = 'Optimmar15';
  workDir = [compDir baseDir '/']; 
 
  % Directory for compilation
