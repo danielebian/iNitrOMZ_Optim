@@ -1,6 +1,9 @@
 # iNitrOMZ
 Requires MATLAB 2013 or above.
 
+### Updates
+#### 12/2019 -- Change the parameter optimization algorithm to the rather new and extremely more efficient CMAES algorithm (https://en.wikipedia.org/wiki/CMA-ES)
+
 ### Quick intro
     iNitrOMZ comprises of a biogeochemical model embeded in a below-mixed layer 
     1-D advection diffusion model. Forced with an export flux at the base of the 
