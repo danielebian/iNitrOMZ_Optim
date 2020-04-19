@@ -3,7 +3,7 @@ iNitrOMZ is a nitrogen-centric biogeochemical model embeded in a below-mixed lay
     
 ## Table of Contents
 
-- [Updates](#installation)
+- [Updates](#updates)
 - [Getting Started](#features)
 - [Code structure](#Code structure])
 - [Support](#support)
