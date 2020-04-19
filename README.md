@@ -4,10 +4,10 @@ iNitrOMZ is a nitrogen-centric biogeochemical model embeded in a below-mixed lay
 ## Table of Contents
 
 - [Updates](#updates)
-- [Getting Started](#getting-started)
-- [Code Structure](#code-structure])
+- [Getting started](#getting-started)
+- [Code structure](#code-structure])
 - [Support](#support)
-- [License](#how-to-cite)
+- [How to cite](#how-to-cite)
 
 Requires MATLAB 2013 or above.
 
@@ -24,7 +24,7 @@ Find what you need:
 ## Updates
 * 12/2019 -- Change the parameter optimization algorithm to the rather new and extremely more efficient CMAES algorithm (https://en.wikipedia.org/wiki/CMA-ES)
 
-## Getting Started
+## Getting started
 #### Setting the root path
     Let's call the path to iNitrOMZ/ -- $NITROMSPATH 
       (1) Open the model initialization function
