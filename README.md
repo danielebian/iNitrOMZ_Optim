@@ -4,14 +4,14 @@ Requires MATLAB 2013 or above.
 ---------------------------------------
 ---------------------------------------
 Find what you need:
-### Updates
+[Updates]
 ### Quick intro
 ### Running iNitrOMZ
 ### Code structure
 ---------------------------------------
 ---------------------------------------
 
-### Updates
+[Updates](### Updates)
 * 12/2019 -- Change the parameter optimization algorithm to the rather new and extremely more efficient CMAES algorithm (https://en.wikipedia.org/wiki/CMA-ES)
 
 ### Quick intro
