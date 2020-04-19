@@ -1,4 +1,14 @@
 # iNitrOMZ
+iNitrOMZ is a nitrogen-centric biogeochemical model embeded in a below-mixed layer 1-D advection diffusion model. The model resolves a comprehensive set of processes involved in the remineralization of the sinking organic matter, starting from an imposed export flux at the base of the mixed-layer.
+    
+## Table of Contents
+
+- [Updates](#installation)
+- [Getting Started](#features)
+- [Code structure](#Code structure])
+- [Support](#support)
+- [License](#license)
+
 Requires MATLAB 2013 or above.
 
 ---------------------------------------
@@ -11,17 +21,10 @@ Find what you need:
 ---------------------------------------
 ---------------------------------------
 
-### Updates
+## Updates
 * 12/2019 -- Change the parameter optimization algorithm to the rather new and extremely more efficient CMAES algorithm (https://en.wikipedia.org/wiki/CMA-ES)
 
-### Quick intro
-    iNitrOMZ comprises of a biogeochemical model embeded in a below-mixed layer 
-    1-D advection diffusion model. Forced with an export flux at the base of the 
-    mixed-layer, iNitrOMZ resolves a comprehensive set of processes involved in 
-    the remineralization of the sinking organic matter, and especially those that 
-    involve N-species.
-
-### Running iNitrOMZ
+## Getting Started
 #### Setting the root path
     Let's call the path to iNitrOMZ/ -- $NITROMSPATH 
       (1) Open the model initialization function
@@ -38,7 +41,7 @@ Find what you need:
 
 
 
-### Code structure
+## Code structure 
  #### iNitrOMZ_v5.4/runscripts/  
       Template scripts to run or optimize the model
         - bgc_run.m -- template running script
@@ -89,4 +92,6 @@ Find what you need:
        
  #### iNitrOMZ_v5.4/saveOut/
       Where model output is archived.
->>>>>>> b141387c36af3b771abd895e3698ad0bd2970a81
+      
+## Support
+Contact Simon Yang or Daniele Bianchi at UCLA for support. Reference soon to come. For now please at list cite this repository. 
