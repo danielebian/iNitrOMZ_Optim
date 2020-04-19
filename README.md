@@ -92,7 +92,6 @@ Find what you need:
 Contact Simon Yang or Daniele Bianchi at UCLA for support. 
 
 ## How to cite 
-Please cite this repository (doi:10.5281/zenodo.3757143)
-[![DOI](https://zenodo.org/badge/236965059.svg)](https://zenodo.org/badge/latestdoi/236965059)
+Please cite this repository [![DOI](https://zenodo.org/badge/236965059.svg)](https://zenodo.org/badge/latestdoi/236965059)
 
 Manuscript reference soon to come.
