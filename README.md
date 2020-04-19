@@ -4,10 +4,10 @@ iNitrOMZ is a nitrogen-centric biogeochemical model embeded in a below-mixed lay
 ## Table of Contents
 
 - [Updates](#updates)
-- [Getting Started](#getting Started)
-- [Code structure](#code structure])
+- [Getting Started](#getting-Started)
+- [Code structure](#code-structure])
 - [Support](#support)
-- [License](#how to cite)
+- [License](#how-to-cite)
 
 Requires MATLAB 2013 or above.
 
