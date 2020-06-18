@@ -15,9 +15,9 @@
 
  rootPath = '/home/yangsi/project/NitrOMZ/';
  iNitPath = [rootPath,'iNitrOMZ_v6.0/'];
- addpath([iNitPath,'functions/']);
+ addpath([iNitPath,'bgc1d_src/']);
  compDir = [iNitPath,'comet/']; 
- baseDir = 'Optimmar15';
+ baseDir = 'Optimmay4';
  workDir = [compDir baseDir '/']; 
 
  % Directory for compilation
