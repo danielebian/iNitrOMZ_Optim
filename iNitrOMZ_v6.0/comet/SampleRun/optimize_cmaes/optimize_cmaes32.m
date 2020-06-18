@@ -4,8 +4,8 @@
  addpath('/home/yangsi/project/NitrOMZ/optimization/CMA_ES/');
 
 % Handles output directory
- OptName = 'ForSedTofind_OptName';
- OptCase = 'ForSedTofind_Case'
+ OptName = 'Optimmay432';
+ OptCase = 'Optimmay4'
  OptNameLong = 'Fix All oxic, Vary Anoxic parameters, NO interpolated data, cost function #3 w/t no rates (&no second square), 25k evaluations max';
  Optim.codeDir = [bgc1d_root,'comet/',OptCase,'/optimize_cmaes/'];
  addpath(Optim.codeDir);
