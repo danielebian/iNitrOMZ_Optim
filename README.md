@@ -24,6 +24,7 @@ Find what you need:
 ## Updates
 * 12/2019 -- Change the parameter optimization algorithm to the rather new and extremely more efficient CMAES algorithm (https://en.wikipedia.org/wiki/CMA-ES)
 * 02/2020 -- Example batch jobs multi-optimization submission scripts added.
+* 08/2020 -- Development branch initiated by dbianchi
 ## Getting started
 #### Setting the root path
     Let's call the path to iNitrOMZ/ -- $NITROMSPATH 
